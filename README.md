@@ -64,5 +64,3 @@ GitHub é uma plataforma de hospedagem de código-fonte com controle de versão 
 
 ## 🔎 REFÊRENCIAS
 [Digital Innovation One](https://www.dio.me/) Versionamento de Código com Git e GitHub
-
-## Aula 01 e 02
